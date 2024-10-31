@@ -1,0 +1,196 @@
+/* Page sidebar */
+.page-sidebar-the-wpgeeks
+{
+   background-color: #284049;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a
+{
+   border-top: 1px solid rgba(238, 238, 238, 0.19);
+   color: #fff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a > i
+{
+   color: #fff !important;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a > i[class^="icon-"],
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a > i[class*="icon-"]
+{
+   color: #959595;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a > .arrow:before,.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a > .arrow.open:before
+{
+   color: #777777;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.heading > h3
+{
+   color: #9e9e9e;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:hover > a,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.open > a
+{
+   background: rgba(82, 103, 125, 0.55) !important;
+   color: #d9d9d9;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:hover > a > i,.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.open > a > i
+{
+   color: #888888;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:hover > a > .arrow:before,.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:hover > a > .arrow.open:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.open > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.open > a > .arrow.open:before
+{
+   color: #888888;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active > a,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open > a
+{
+   background: #d64635;
+   border-top-color: transparent;
+   color: #ffffff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active > a:hover,.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open > a:hover
+{
+   background: #d64635;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active > a > i,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open > a > i
+{
+   color: #ffffff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active > a > .arrow.open:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open > a > .arrow.open:before
+{
+   color: #ffffff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active + li > a
+{
+   border-top-color: transparent;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.active.open + li > a
+{
+   border-top: 1px solid rgba(238, 238, 238, 0.19);
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:last-child > a
+{
+   border-bottom: 1px solid transparent !important;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li > a > .arrow.open:before
+{
+   color: #777777;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li:hover > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li:hover > a > .arrow.open:before
+{
+   color: #888888;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li.active > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks li.active > a > .arrow.open:before
+{
+   color: #ffffff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks:hover .sub-menu
+{
+   /*background-color: rgba(82, 103, 125, 0.55) !important;*/
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a
+{
+   color: #fff;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a > i
+{
+   color: #fff !important;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a > i[class^="icon-"],
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a > i[class*="icon-"]
+{
+   color: #959595;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li > a > .arrow.open:before
+{
+   color: #777777;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li:hover > a,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.open > a,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.active > a
+{
+   background: rgba(82, 103, 125, 0.55) !important;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li:hover > a > i,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.open > a > i,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.active > a > i
+{
+   color: #888888;
+   color: #bbbbbb;
+}
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li:hover > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li:hover > a > .arrow.open:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.open > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.open > a > .arrow.open:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.active > a > .arrow:before,
+.page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks .sub-menu > li.active > a > .arrow.open:before
+{
+   color: #888888;
+}
+@media (min-width: 992px)
+{
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-hover-submenu > li:hover > .sub-menu
+   {
+      box-shadow: 5px 5px rgba(48, 48, 48, 0.2);
+   }
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-hover-submenu > li:hover > .sub-menu.sidebar-search-wrapper
+   {
+      box-shadow: none;
+   }
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-closed > li:hover
+   {
+      box-shadow: 5px 5px rgba(48, 48, 48, 0.2);
+   }
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-closed > li:hover.sidebar-search-wrapper
+   {
+      box-shadow: none;
+   }
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-closed > li:hover > .sub-menu
+   {
+      box-shadow: 5px 5px rgba(48, 48, 48, 0.2);
+   }
+   .page-sidebar-menu-the-wpgeeks.page-sidebar-menu-the-wpgeeks-closed > li:hover > .sub-menu.sidebar-search-wrapper
+   {
+      box-shadow: none;
+   }
+   .page-sidebar-menu-the-wpgeeks-hover-submenu li:hover a > .arrow
+   {
+      border-right: 8px solid #3a3a3a;
+   }
+   .page-sidebar-menu-the-wpgeeks-hover-submenu li:hover > .sub-menu
+   {
+      background: #3a3a3a !important;
+   }
+}
+@media (max-width: 991px)
+{
+   .page-sidebar-the-wpgeeks
+   {
+      background-color: #284049;
+      /* light sidebar */
+   }
+   .page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li > a
+   {
+      border-top: 1px solid rgba(238, 238, 238, 0.19);
+   }
+   .page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:hover > a, .page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li.open > a
+   {
+      background: rgb(129, 138, 156);
+   }
+   .page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li:last-child > a
+   {
+      background: rgba(82, 103, 125, 0.55) !important;
+   }
+   .page-sidebar-the-wpgeeks .page-sidebar-menu-the-wpgeeks > li .sub-menu
+   {
+      /*background-color: #797f8b !important;*/
+   }
+}
